@@ -32,4 +32,4 @@
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-dOS&layout=donut-vertical" />
 </div>
-![Estatísticas de Linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-dOS&layout=compact&theme=dark)
+
