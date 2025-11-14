@@ -26,10 +26,5 @@
 </div>
 </p>
 
-<hr>
-<div>
-  <a href="www.linkedin.com/in/nathan-oliveira-santos"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"></a>
-  <a href="mailto:nathanods@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"></a>
-</div>
 
 
